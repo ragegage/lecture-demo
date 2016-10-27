@@ -1,0 +1,1 @@
+json.extract! @fun_thing, :id, name, fun_level

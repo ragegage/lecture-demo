@@ -1,0 +1,2 @@
+module Api::FunThingHelper
+end
